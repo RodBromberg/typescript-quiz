@@ -27,6 +27,10 @@ function App() {
   const nextQuestion = () => {
 
   }
+  const prevQuestion = () => {
+
+  }
+  ///comment
 
   console.log(fetchQuizQuestions(TOTAL_QUESTIONS, Difficulty.EASY))
   
